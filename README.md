@@ -8,7 +8,7 @@ Gosto de transformar ideias em projetos reais, unindo hardware e software para a
 🎓 Estudante do ensino médio  
 ⚙️ Robótica, eletrônica e automação  
 💻 C/C++ • Python • Arduino • ESP32  
-🚀 Interessado em Engenharia de Controle e Automação, Mecatrônica e Engenharia Elétrica
+🚀 Interessado em Ciência da Computação, Mecatrônica e Engenharia Elétrica
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@filiperupp639) 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liperupp) 
